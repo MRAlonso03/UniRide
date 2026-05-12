@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1099284648806",
+    "project_id": "uniride-b314f",
+    "storage_bucket": "uniride-b314f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099284648806:android:e64c29fd0e43ace92a6ea7",
+        "android_client_info": {
+          "package_name": "com.uniride.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf6R2v6_OxtFj7LQ27P4TPEQ33vbgBIhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

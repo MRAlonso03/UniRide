@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/passengerFragment">
+
+    <fragment
+        android:id="@+id/passengerFragment"
+        android:name="com.uniride.app.ui.home.PassengerFragment"
+        android:label="Inicio" />
+
+    <fragment
+        android:id="@+id/driverFragment"
+        android:name="com.uniride.app.ui.home.DriverFragment"
+        android:label="Conductor" />
+
+    <fragment
+        android:id="@+id/myTripsFragment"
+        android:name="com.uniride.app.ui.trip.MyTripsFragment"
+        android:label="Mis viajes" />
+
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.uniride.app.ui.profile.ProfileFragment"
+        android:label="Perfil" />
+
+</navigation>

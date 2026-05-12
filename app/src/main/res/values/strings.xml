@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">UniRide</string>
+    <string name="login_title">Bienvenido a UniRide</string>
+    <string name="login_subtitle">Ingresa con tu correo institucional</string>
+    <string name="hint_email">Correo institucional</string>
+    <string name="hint_password">Contraseña</string>
+    <string name="hint_name">Nombre completo</string>
+    <string name="hint_student_id">Matrícula</string>
+    <string name="btn_login">Iniciar sesión</string>
+    <string name="btn_register">Crear cuenta</string>
+    <string name="btn_publish_trip">Publicar viaje</string>
+    <string name="btn_request_join">Solicitar unirme</string>
+    <string name="no_trips">No hay viajes disponibles.\n¡Sé el primero en publicar uno!</string>
+    <string name="tab_passenger">Pasajero</string>
+    <string name="tab_driver">Conductor</string>
+    <string name="nav_home">Inicio</string>
+    <string name="nav_my_trips">Mis viajes</string>
+    <string name="nav_profile">Perfil</string>
+    <string name="origin">Origen</string>
+    <string name="destination">Destino</string>
+    <string name="departure_time">Hora de salida</string>
+    <string name="available_seats">Lugares disponibles</string>
+</resources>

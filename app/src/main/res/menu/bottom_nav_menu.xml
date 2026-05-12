@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/passengerFragment"
+        android:icon="@drawable/ic_search"
+        android:title="Inicio" />
+
+    <item
+        android:id="@+id/driverFragment"
+        android:icon="@drawable/ic_car"
+        android:title="Conductor" />
+
+    <item
+        android:id="@+id/myTripsFragment"
+        android:icon="@drawable/ic_list"
+        android:title="Mis viajes" />
+
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/ic_person"
+        android:title="Perfil" />
+
+</menu>
